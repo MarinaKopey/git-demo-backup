@@ -5,6 +5,3 @@ ki lo
 ki lo 
 next line
 line
-
-here some treet
----------------------------------------------
